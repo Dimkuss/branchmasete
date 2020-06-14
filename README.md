@@ -6,7 +6,7 @@ JavaScript:
 ```
 
 Java (Maven):
-```xml
+```
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
